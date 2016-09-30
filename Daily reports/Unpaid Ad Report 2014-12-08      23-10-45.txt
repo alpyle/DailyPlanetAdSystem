@@ -1,0 +1,40 @@
+					Unpaid Ad Report 
+ 				  2014-12-08      23-10-45
+AD ID#: 15
+Contents: this is the second part of a test
+Customer: Daily Paper
+Phone#: 12345678910
+planID: 23
+
+
+
+
+AD ID#: 19
+Contents: hrbrhbrhrbrhrbrh
+Customer: Daily Paper
+Phone#: 12345678910
+planID: 23
+
+
+
+
+AD ID#: 18
+Contents: herdederr
+Customer: Daily Paper
+Phone#: 12345678910
+planID: 26
+
+
+
+
+
+
+
+
+TOTALS:
+
+PlanID			Plan Name			Plan Total		Total Amount Owed
+--------------------------------------------------------------------------------------------------------
+23			deletion test			$12.00			$12.00
+26			paymentplan1			$4.00			$4.00
+Total Owed: $16.00

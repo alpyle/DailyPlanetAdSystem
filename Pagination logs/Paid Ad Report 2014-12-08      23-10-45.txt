@@ -1,0 +1,12 @@
+				Ad's sent to Pagination System 
+ 				2014-12-08      23-10-45
+AD ID#: 20
+Category: Calico
+Title: lorem ipsum
+Content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lobortis accumsan massa sed pellentesque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris vel euismod neque. Aliquam ultrices porttitor nisl quis fringilla. Vestibulum eu porta nunc. Sed condimentum placerat tellus, non sodales erat luctus non. In enim mauris, ullamcorper nec ex quis, dapibus faucibus urna. Maecenas ac congue nisi, ullamcorper luctus erat. Nam ac tellus laoreet, sollicitudin quam a, porttitor arcu. In auctor tellus id.
+Columns: 2
+Size: 271
+
+
+
+

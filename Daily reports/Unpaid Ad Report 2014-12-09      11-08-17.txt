@@ -1,0 +1,21 @@
+					Unpaid Ad Report 
+ 				  2014-12-09      11-08-17
+AD ID#: 18
+Contents: Hi friends, I am a monkey looking for a jobble mcwobble, pls
+Customer: Jon Johnson
+Phone#: 8285515515
+planID: 17
+
+
+
+
+
+
+
+
+TOTALS:
+
+PlanID			Plan Name			Plan Total		Total Amount Owed
+--------------------------------------------------------------------------------------------------------
+17			Playment Plan Yolo			$4.50			$4.50
+Total Owed: $4.50

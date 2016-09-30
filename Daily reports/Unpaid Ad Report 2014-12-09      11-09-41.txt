@@ -1,0 +1,11 @@
+					Unpaid Ad Report 
+ 				  2014-12-09      11-09-41
+
+
+
+
+TOTALS:
+
+PlanID			Plan Name			Plan Total		Total Amount Owed
+--------------------------------------------------------------------------------------------------------
+Total Owed: $0.00
