@@ -1,5 +1,7 @@
 This project was originally created by Adam Pyle, Justin Johnson, Sarah Harris, and Nicole Bain for CSC-340, Software engineering.
 
+NOTE: Justin, Sarah, and Nicole handled most of the UI design after I showed them the basics of java interfaces. The backend was equally written by all of us, and I helped to handle anything that gave the others trouble due to my greater level of experience. I also handled the database design and implementation, as well as teaching the other group members how to interact with a remote database using code within Java.
+
 The project objective was to create a functioning system to manage ads for a newspaper printing company, and to enable reporting based on those ads.
 
 It isn't perfect, but considering that all the code written here resulted from about 3 weeks of actual development time, it came out pretty good.
